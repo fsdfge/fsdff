@@ -3,8 +3,8 @@
   {
     "server": "89.23.113.148",
     "server_port": 1080,
-    "password": "30idTfuZJJ2Ex4tV8/pEPuX3QIZJg9T/zR9J+0bgUXw=",
-    "method": "3pURuTUf-lFgg5qWg8euFA",
+    "password": "3pURuTUf-lFgg5qWg8euFA",
+    "method": "chacha20-ietf-poly1305",
     "remarks": "RU ТВ (ТВ-КАНАЛ БЕСПЛАТНО WHATSAPP 89968979167)",
     "route": "all",
     "remote_dns": "one.one.one.one",
