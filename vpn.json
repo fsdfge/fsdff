@@ -6,7 +6,7 @@
     "server_port": 50744,
     "password": "sIZ80DZsAC9ZSshS69gYql",
     "method": "CHACHA20-IETF-POLY1305",
-    "remarks": "🇷🇺 Россия4",
+    "remarks": "🇷🇺 ТВ (ТВ-КАНАЛЫ БЕСПЛАТНО. WHATSPAPP: 89968979167)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
@@ -16,5 +16,19 @@
     },
     "udpdns": false
   }
-
+{
+    "server": "194.26.229.181",
+    "server_port": 50744,
+    "password": "sIZ80DZsAC9ZSshS69gYql",
+    "method": "CHACHA20-IETF-POLY1305",
+    "remarks": "ЮТУБ",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
 ]
