@@ -1,9 +1,9 @@
 [
    {
-    "server": "45.159.249.42",
-    "server_port": 7843,
-    "password": "DFVWSARx1UE8JlZmAPAfMK",
-    "method": "chacha20-ietf-poly1305",
+    "server": "51.75.65.119",
+    "server_port": 8443,
+    "password": "0fX7IOXbHpXZhQUjHo5pJ85cM8xni7SmFhkEFLyeCes=",
+    "method": "aes-256-gcm",
     "remarks": "ЮТУБ (УСКОРЕНИЕ ЮТУБА WHATSAPP 89195062598)",
     "route": "all",
     "remote_dns": "one.one.one.one",
