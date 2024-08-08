@@ -1,9 +1,9 @@
 [
    {
-    "server": "51.75.65.119",
-    "server_port": 8443,
-    "password": "0fX7IOXbHpXZhQUjHo5pJ85cM8xni7SmFhkEFLyeCes=",
-    "method": "aes-256-gcm",
+    "server": "212.102.53.195",
+    "server_port": 443,
+    "password": "shadowsocks",
+    "method": "aes-128-gcm",
     "remarks": "ЮТУБ (УСКОРЕНИЕ ЮТУБА WHATSAPP 89195062598)",
     "route": "all",
     "remote_dns": "one.one.one.one",
