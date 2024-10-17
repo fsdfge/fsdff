@@ -19,7 +19,7 @@
     "server_port": 52952,
     "password": "LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "ЮТУБ БЕЗ ЗАРУБЕЖНОЙ РЕКЛАМЫ (WHATSAPP 89195062598)",
+    "remarks": "ЮТУБ БЕЗ ЗАРУБЕЖНОЙ РЕКЛАМЫ 1 (WHATSAPP 89195062598)",
     "route": "all",
     "remote_dns": "one.one.one.one",
     "ipv6": false,
@@ -29,7 +29,21 @@
     },
     "udpdns": false
   },
-  
+  {
+    "server": "193.29.139.182",
+    "server_port": 8080,
+    "password": "a8bt9fY0QsLS6eLnXUe0Ym",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "ЮТУБ БЕЗ ЗАРУБЕЖНОЙ РЕКЛАМЫ 2 (WHATSAPP 89195062598)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
    {
     "server": "51.75.65.119",
     "server_port": 8443,
