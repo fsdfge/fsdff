@@ -15,6 +15,21 @@
     "udpdns": false
   },
    {
+    "server": "166.88.177.134",
+    "server_port": 41567,
+    "password": "24MbmqmUFmwUp3vs3jukjcYGBpT3tarYbu3CREUBZ8rXMAEY45caR3F89rUfbfeiBciT86nKR3Fnpt9qZcCEn4MrBgXaehhS",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "УСКОРЕНИЕ ЮТУБА БЕЗ РЕКЛАМЫ 4 (WHATSAPP 89195062598)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+   {
     "server": "38.91.100.199",
     "server_port": 5004,
     "password": "g5MeD6Ft3CWlJId",
