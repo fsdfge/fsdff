@@ -1,5 +1,20 @@
 [
    {
+    "server": "166.88.177.134",
+    "server_port": 41567,
+    "password": "2PRE8Hs4LJPpAadMfcdt2eW51ajzaDcDQrtY5c5NnuAtJGtiWhUQutdx2bzGZBxeNQS3nS1PTr9FmYZg2WGu5gpVG5rHkpG2",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "УСКОРЕНИЕ ЮТУБА БЕЗ РЕКЛАМЫ 3 (WHATSAPP 89195062598)",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+   {
     "server": "38.91.100.199",
     "server_port": 5004,
     "password": "g5MeD6Ft3CWlJId",
@@ -44,21 +59,7 @@
     },
     "udpdns": false
   },
-  {
-    "server": "166.88.177.134",
-    "server_port": 41567,
-    "password": "2PRE8Hs4LJPpAadMfcdt2eW51ajzaDcDQrtY5c5NnuAtJGtiWhUQutdx2bzGZBxeNQS3nS1PTr9FmYZg2WGu5gpVG5rHkpG2",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "УСКОРЕНИЕ ЮТУБА БЕЗ РЕКЛАМЫ 3 (WHATSAPP 89195062598)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
+  
    {
     "server": "51.75.65.119",
     "server_port": 8443,
