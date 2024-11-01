@@ -29,21 +29,7 @@
     },
     "udpdns": false
   },
-   {
-    "server": "my.noisydeysy.monster",
-    "server_port": 42029,
-    "password": "SjdGCHwafjktt1rzpGxTKYTvVBWb8Xa6E5DTr6MzbdHQSwvpLiDczj3n6MBjy2uyFSzgqgvCWsDQmpM4VQzfPzyGYF58wdyD",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "УСКОРЕНИЕ ЮТУБА БЕЗ РЕКЛАМЫ 5 (WHATSAPP 89195062598)",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-  },
+  
    {
     "server": "38.91.100.199",
     "server_port": 5004,
