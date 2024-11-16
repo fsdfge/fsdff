@@ -45,37 +45,7 @@
     },
     "udpdns": false
 },
-   {
-    "server": "51.158.252.130",
-    "server_port": 443,
-    "password": "Nd1ljBemqyXDM7YmcgsArF",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "УСКОРЕНИЕ ЮТУБА СЕРВЕР 6 WHATSAPP 89195062598",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-},
-
-{
-    "server": "62.210.88.22",
-    "server_port": 443,
-    "password": "a5HaSK4IUFJa6dzuXJe1OP",
-    "method": "chacha20-ietf-poly1305",
-    "remarks": "УСКОРЕНИЕ ЮТУБА СЕРВЕР 7 WHATSAPP 89195062598",
-    "route": "all",
-    "remote_dns": "one.one.one.one",
-    "ipv6": false,
-    "metered": false,
-    "proxy_apps": {
-      "enabled": false
-    },
-    "udpdns": false
-},
+   
 
 {
     "server": "80.92.204.106",
