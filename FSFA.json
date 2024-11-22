@@ -47,7 +47,21 @@
 },
    
 
-
+{
+    "server": "80.92.204.106",
+    "server_port": 9046,
+    "password": "NvS8N4Vf8qAGPSCL",
+    "method": "aes-256-cfb",
+    "remarks": "УСКОРЕНИЕ ЮТУБА СЕРВЕР 8 WHATSAPP 89195062598",
+    "route": "all",
+    "remote_dns": "one.one.one.one",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+},
 {
     "server": "15.204.87.225",
     "server_port": 8118,
