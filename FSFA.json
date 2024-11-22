@@ -166,6 +166,19 @@
       "enabled": false
     },
     "udpdns": false
+      {
+    "server": "5.181.23.116",
+    "server_port": 7777,
+    "uuid": "world",
+    "remarks": "ПРОДАЖА ПРИСТАВОК WHATSAPP 89195062598",
+    "network": "ws",
+    "websocket_host": "vkvd127.mycdn.me",
+    "websocket_path": "/",
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
   }
 
 ]
